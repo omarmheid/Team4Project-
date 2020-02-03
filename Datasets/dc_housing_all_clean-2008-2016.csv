@@ -1,93 +1,93 @@
 ,Year,Neighborhoods,Cluster,Median_Price
-188,2007,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,999950
-189,2008,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,1391251
-190,2009,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,955000
-191,2010,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,1170000
-192,2011,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,1455000
-193,2012,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,1060000
-194,2013,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,1800000
-195,2014,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,1202500
-196,2015,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,1200000
-197,2016,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,1930000
-210,2007,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,496009
-211,2008,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,530000
-212,2009,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,430000
-213,2010,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,480000
-214,2011,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,490000
-215,2012,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,535000
-216,2013,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,605000
-217,2014,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,650000
-218,2015,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,700000
-219,2016,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,760000
-232,2007,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,577000
-233,2008,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,637800
-234,2009,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,605500
-235,2010,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,629000
-236,2011,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,615000
-237,2012,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,658500
-238,2013,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,708250
-239,2014,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,825000
-240,2015,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,777778
-241,2016,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,860000
-254,2007,"Georgetown, Burleith/Hillandale",Cluster 4,1165000
-255,2008,"Georgetown, Burleith/Hillandale",Cluster 4,1237500
-256,2009,"Georgetown, Burleith/Hillandale",Cluster 4,1140500
-257,2010,"Georgetown, Burleith/Hillandale",Cluster 4,1165000
-258,2011,"Georgetown, Burleith/Hillandale",Cluster 4,1100000
-259,2012,"Georgetown, Burleith/Hillandale",Cluster 4,1230000
-260,2013,"Georgetown, Burleith/Hillandale",Cluster 4,1275000
-261,2014,"Georgetown, Burleith/Hillandale",Cluster 4,1250000
-262,2015,"Georgetown, Burleith/Hillandale",Cluster 4,1467500
-263,2016,"Georgetown, Burleith/Hillandale",Cluster 4,1295000
-276,2007,"West End, Foggy Bottom, GWU",Cluster 5,1037000
-277,2008,"West End, Foggy Bottom, GWU",Cluster 5,932000
-278,2009,"West End, Foggy Bottom, GWU",Cluster 5,672000
-279,2010,"West End, Foggy Bottom, GWU",Cluster 5,810000
-280,2011,"West End, Foggy Bottom, GWU",Cluster 5,702500
-281,2012,"West End, Foggy Bottom, GWU",Cluster 5,820000
-282,2013,"West End, Foggy Bottom, GWU",Cluster 5,800000
-283,2014,"West End, Foggy Bottom, GWU",Cluster 5,1060000
-284,2015,"West End, Foggy Bottom, GWU",Cluster 5,747500
-285,2016,"West End, Foggy Bottom, GWU",Cluster 5,797500
-298,2007,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,847500
-299,2008,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,890000
-300,2009,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,862500
-301,2010,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,953250
-302,2011,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,950000
-303,2012,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,990000
-304,2013,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,1012500
-305,2014,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,1050000
-306,2015,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,1395000
-307,2016,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,1210000
-320,2007,"Shaw, Logan Circle",Cluster 7,618000
-321,2008,"Shaw, Logan Circle",Cluster 7,515000
-322,2009,"Shaw, Logan Circle",Cluster 7,510000
-323,2010,"Shaw, Logan Circle",Cluster 7,591000
-324,2011,"Shaw, Logan Circle",Cluster 7,570000
-325,2012,"Shaw, Logan Circle",Cluster 7,680000
-326,2013,"Shaw, Logan Circle",Cluster 7,810000
-327,2014,"Shaw, Logan Circle",Cluster 7,775000
-328,2015,"Shaw, Logan Circle",Cluster 7,853500
-329,2016,"Shaw, Logan Circle",Cluster 7,890001
-342,2007,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,795000
-343,2008,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,373950
-345,2010,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,502000
-346,2011,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,620000
-347,2012,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,634750
-348,2013,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,1015938
-349,2014,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,537500
-350,2015,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,786250
-351,2016,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,785000
-364,2007,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,645000
-365,2008,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,650000
-366,2009,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,640000
-367,2010,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,628750
-368,2011,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,302500
-369,2012,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,692250
-370,2013,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,675000
-371,2014,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,720000
-372,2015,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,800000
-373,2016,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,880500
+188,2007,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 01,999950
+189,2008,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 01,1391251
+190,2009,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 01,955000
+191,2010,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 01,1170000
+192,2011,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 01,1455000
+193,2012,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 01,1060000
+194,2013,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 01,1800000
+195,2014,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 01,1202500
+196,2015,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 01,1200000
+197,2016,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 01,1930000
+210,2007,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 02,496009
+211,2008,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 02,530000
+212,2009,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 02,430000
+213,2010,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 02,480000
+214,2011,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 02,490000
+215,2012,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 02,535000
+216,2013,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 02,605000
+217,2014,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 02,650000
+218,2015,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 02,700000
+219,2016,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 02,760000
+232,2007,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 03,577000
+233,2008,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 03,637800
+234,2009,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 03,605500
+235,2010,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 03,629000
+236,2011,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 03,615000
+237,2012,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 03,658500
+238,2013,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 03,708250
+239,2014,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 03,825000
+240,2015,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 03,777778
+241,2016,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 03,860000
+254,2007,"Georgetown, Burleith/Hillandale",Cluster 04,1165000
+255,2008,"Georgetown, Burleith/Hillandale",Cluster 04,1237500
+256,2009,"Georgetown, Burleith/Hillandale",Cluster 04,1140500
+257,2010,"Georgetown, Burleith/Hillandale",Cluster 04,1165000
+258,2011,"Georgetown, Burleith/Hillandale",Cluster 04,1100000
+259,2012,"Georgetown, Burleith/Hillandale",Cluster 04,1230000
+260,2013,"Georgetown, Burleith/Hillandale",Cluster 04,1275000
+261,2014,"Georgetown, Burleith/Hillandale",Cluster 04,1250000
+262,2015,"Georgetown, Burleith/Hillandale",Cluster 04,1467500
+263,2016,"Georgetown, Burleith/Hillandale",Cluster 04,1295000
+276,2007,"West End, Foggy Bottom, GWU",Cluster 05,1037000
+277,2008,"West End, Foggy Bottom, GWU",Cluster 05,932000
+278,2009,"West End, Foggy Bottom, GWU",Cluster 05,672000
+279,2010,"West End, Foggy Bottom, GWU",Cluster 05,810000
+280,2011,"West End, Foggy Bottom, GWU",Cluster 05,702500
+281,2012,"West End, Foggy Bottom, GWU",Cluster 05,820000
+282,2013,"West End, Foggy Bottom, GWU",Cluster 05,800000
+283,2014,"West End, Foggy Bottom, GWU",Cluster 05,1060000
+284,2015,"West End, Foggy Bottom, GWU",Cluster 05,747500
+285,2016,"West End, Foggy Bottom, GWU",Cluster 05,797500
+298,2007,"Dupont Circle, Connecticut Avenue/K Street",Cluster 06,847500
+299,2008,"Dupont Circle, Connecticut Avenue/K Street",Cluster 06,890000
+300,2009,"Dupont Circle, Connecticut Avenue/K Street",Cluster 06,862500
+301,2010,"Dupont Circle, Connecticut Avenue/K Street",Cluster 06,953250
+302,2011,"Dupont Circle, Connecticut Avenue/K Street",Cluster 06,950000
+303,2012,"Dupont Circle, Connecticut Avenue/K Street",Cluster 06,990000
+304,2013,"Dupont Circle, Connecticut Avenue/K Street",Cluster 06,1012500
+305,2014,"Dupont Circle, Connecticut Avenue/K Street",Cluster 06,1050000
+306,2015,"Dupont Circle, Connecticut Avenue/K Street",Cluster 06,1395000
+307,2016,"Dupont Circle, Connecticut Avenue/K Street",Cluster 06,1210000
+320,2007,"Shaw, Logan Circle",Cluster 07,618000
+321,2008,"Shaw, Logan Circle",Cluster 07,515000
+322,2009,"Shaw, Logan Circle",Cluster 07,510000
+323,2010,"Shaw, Logan Circle",Cluster 07,591000
+324,2011,"Shaw, Logan Circle",Cluster 07,570000
+325,2012,"Shaw, Logan Circle",Cluster 07,680000
+326,2013,"Shaw, Logan Circle",Cluster 07,810000
+327,2014,"Shaw, Logan Circle",Cluster 07,775000
+328,2015,"Shaw, Logan Circle",Cluster 07,853500
+329,2016,"Shaw, Logan Circle",Cluster 07,890001
+342,2007,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 08,795000
+343,2008,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 08,373950
+345,2010,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 08,502000
+346,2011,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 08,620000
+347,2012,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 08,634750
+348,2013,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 08,1015938
+349,2014,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 08,537500
+350,2015,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 08,786250
+351,2016,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 08,785000
+364,2007,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 09,645000
+365,2008,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 09,650000
+366,2009,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 09,640000
+367,2010,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 09,628750
+368,2011,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 09,302500
+369,2012,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 09,692250
+370,2013,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 09,675000
+371,2014,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 09,720000
+372,2015,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 09,800000
+373,2016,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 09,880500
 386,2007,"Hawthorne, Barnaby Woods, Chevy Chase",Cluster 10,852164
 387,2008,"Hawthorne, Barnaby Woods, Chevy Chase",Cluster 10,862000
 388,2009,"Hawthorne, Barnaby Woods, Chevy Chase",Cluster 10,802500
