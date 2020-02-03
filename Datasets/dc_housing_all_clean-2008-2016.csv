@@ -1,0 +1,414 @@
+,Year,Neighborhoods,Cluster,Median_Price
+188,2007,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,999950
+189,2008,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,1391251
+190,2009,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,955000
+191,2010,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,1170000
+192,2011,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,1455000
+193,2012,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,1060000
+194,2013,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,1800000
+195,2014,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,1202500
+196,2015,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,1200000
+197,2016,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,1930000
+210,2007,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,496009
+211,2008,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,530000
+212,2009,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,430000
+213,2010,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,480000
+214,2011,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,490000
+215,2012,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,535000
+216,2013,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,605000
+217,2014,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,650000
+218,2015,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,700000
+219,2016,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,760000
+232,2007,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,577000
+233,2008,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,637800
+234,2009,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,605500
+235,2010,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,629000
+236,2011,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,615000
+237,2012,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,658500
+238,2013,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,708250
+239,2014,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,825000
+240,2015,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,777778
+241,2016,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,860000
+254,2007,"Georgetown, Burleith/Hillandale",Cluster 4,1165000
+255,2008,"Georgetown, Burleith/Hillandale",Cluster 4,1237500
+256,2009,"Georgetown, Burleith/Hillandale",Cluster 4,1140500
+257,2010,"Georgetown, Burleith/Hillandale",Cluster 4,1165000
+258,2011,"Georgetown, Burleith/Hillandale",Cluster 4,1100000
+259,2012,"Georgetown, Burleith/Hillandale",Cluster 4,1230000
+260,2013,"Georgetown, Burleith/Hillandale",Cluster 4,1275000
+261,2014,"Georgetown, Burleith/Hillandale",Cluster 4,1250000
+262,2015,"Georgetown, Burleith/Hillandale",Cluster 4,1467500
+263,2016,"Georgetown, Burleith/Hillandale",Cluster 4,1295000
+276,2007,"West End, Foggy Bottom, GWU",Cluster 5,1037000
+277,2008,"West End, Foggy Bottom, GWU",Cluster 5,932000
+278,2009,"West End, Foggy Bottom, GWU",Cluster 5,672000
+279,2010,"West End, Foggy Bottom, GWU",Cluster 5,810000
+280,2011,"West End, Foggy Bottom, GWU",Cluster 5,702500
+281,2012,"West End, Foggy Bottom, GWU",Cluster 5,820000
+282,2013,"West End, Foggy Bottom, GWU",Cluster 5,800000
+283,2014,"West End, Foggy Bottom, GWU",Cluster 5,1060000
+284,2015,"West End, Foggy Bottom, GWU",Cluster 5,747500
+285,2016,"West End, Foggy Bottom, GWU",Cluster 5,797500
+298,2007,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,847500
+299,2008,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,890000
+300,2009,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,862500
+301,2010,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,953250
+302,2011,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,950000
+303,2012,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,990000
+304,2013,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,1012500
+305,2014,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,1050000
+306,2015,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,1395000
+307,2016,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,1210000
+320,2007,"Shaw, Logan Circle",Cluster 7,618000
+321,2008,"Shaw, Logan Circle",Cluster 7,515000
+322,2009,"Shaw, Logan Circle",Cluster 7,510000
+323,2010,"Shaw, Logan Circle",Cluster 7,591000
+324,2011,"Shaw, Logan Circle",Cluster 7,570000
+325,2012,"Shaw, Logan Circle",Cluster 7,680000
+326,2013,"Shaw, Logan Circle",Cluster 7,810000
+327,2014,"Shaw, Logan Circle",Cluster 7,775000
+328,2015,"Shaw, Logan Circle",Cluster 7,853500
+329,2016,"Shaw, Logan Circle",Cluster 7,890001
+342,2007,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,795000
+343,2008,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,373950
+345,2010,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,502000
+346,2011,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,620000
+347,2012,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,634750
+348,2013,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,1015938
+349,2014,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,537500
+350,2015,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,786250
+351,2016,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,785000
+364,2007,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,645000
+365,2008,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,650000
+366,2009,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,640000
+367,2010,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,628750
+368,2011,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,302500
+369,2012,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,692250
+370,2013,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,675000
+371,2014,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,720000
+372,2015,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,800000
+373,2016,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,880500
+386,2007,"Hawthorne, Barnaby Woods, Chevy Chase",Cluster 10,852164
+387,2008,"Hawthorne, Barnaby Woods, Chevy Chase",Cluster 10,862000
+388,2009,"Hawthorne, Barnaby Woods, Chevy Chase",Cluster 10,802500
+389,2010,"Hawthorne, Barnaby Woods, Chevy Chase",Cluster 10,831000
+390,2011,"Hawthorne, Barnaby Woods, Chevy Chase",Cluster 10,820000
+391,2012,"Hawthorne, Barnaby Woods, Chevy Chase",Cluster 10,853500
+392,2013,"Hawthorne, Barnaby Woods, Chevy Chase",Cluster 10,885000
+393,2014,"Hawthorne, Barnaby Woods, Chevy Chase",Cluster 10,947500
+394,2015,"Hawthorne, Barnaby Woods, Chevy Chase",Cluster 10,950889
+395,2016,"Hawthorne, Barnaby Woods, Chevy Chase",Cluster 10,975000
+408,2007,"Friendship Heights, American University Park, Tenleytown",Cluster 11,837500
+409,2008,"Friendship Heights, American University Park, Tenleytown",Cluster 11,825000
+410,2009,"Friendship Heights, American University Park, Tenleytown",Cluster 11,786000
+411,2010,"Friendship Heights, American University Park, Tenleytown",Cluster 11,798000
+412,2011,"Friendship Heights, American University Park, Tenleytown",Cluster 11,830000
+413,2012,"Friendship Heights, American University Park, Tenleytown",Cluster 11,855000
+414,2013,"Friendship Heights, American University Park, Tenleytown",Cluster 11,890000
+415,2014,"Friendship Heights, American University Park, Tenleytown",Cluster 11,937500
+416,2015,"Friendship Heights, American University Park, Tenleytown",Cluster 11,1002000
+417,2016,"Friendship Heights, American University Park, Tenleytown",Cluster 11,1050000
+430,2007,"North Cleveland Park, Forest Hills, Van Ness",Cluster 12,918000
+431,2008,"North Cleveland Park, Forest Hills, Van Ness",Cluster 12,1255000
+432,2009,"North Cleveland Park, Forest Hills, Van Ness",Cluster 12,956000
+433,2010,"North Cleveland Park, Forest Hills, Van Ness",Cluster 12,1015000
+434,2011,"North Cleveland Park, Forest Hills, Van Ness",Cluster 12,980000
+435,2012,"North Cleveland Park, Forest Hills, Van Ness",Cluster 12,930000
+436,2013,"North Cleveland Park, Forest Hills, Van Ness",Cluster 12,1169500
+437,2014,"North Cleveland Park, Forest Hills, Van Ness",Cluster 12,1107500
+438,2015,"North Cleveland Park, Forest Hills, Van Ness",Cluster 12,1312500
+439,2016,"North Cleveland Park, Forest Hills, Van Ness",Cluster 12,1397500
+452,2007,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",Cluster 13,1115500
+453,2008,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",Cluster 13,1160000
+454,2009,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",Cluster 13,1050000
+455,2010,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",Cluster 13,1165000
+456,2011,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",Cluster 13,1095000
+457,2012,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",Cluster 13,1146500
+458,2013,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",Cluster 13,1197500
+459,2014,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",Cluster 13,1239400
+460,2015,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",Cluster 13,1300000
+461,2016,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",Cluster 13,1262500
+474,2007,"Cathedral Heights, McLean Gardens, Glover Park",Cluster 14,780500
+475,2008,"Cathedral Heights, McLean Gardens, Glover Park",Cluster 14,793750
+476,2009,"Cathedral Heights, McLean Gardens, Glover Park",Cluster 14,797500
+477,2010,"Cathedral Heights, McLean Gardens, Glover Park",Cluster 14,780000
+478,2011,"Cathedral Heights, McLean Gardens, Glover Park",Cluster 14,815000
+479,2012,"Cathedral Heights, McLean Gardens, Glover Park",Cluster 14,852250
+480,2013,"Cathedral Heights, McLean Gardens, Glover Park",Cluster 14,901063
+481,2014,"Cathedral Heights, McLean Gardens, Glover Park",Cluster 14,927000
+482,2015,"Cathedral Heights, McLean Gardens, Glover Park",Cluster 14,895000
+483,2016,"Cathedral Heights, McLean Gardens, Glover Park",Cluster 14,995000
+496,2007,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",Cluster 15,1082000
+497,2008,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",Cluster 15,940000
+498,2009,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",Cluster 15,1100000
+499,2010,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",Cluster 15,1155500
+500,2011,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",Cluster 15,1102500
+501,2012,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",Cluster 15,1181750
+502,2013,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",Cluster 15,1352500
+503,2014,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",Cluster 15,1360000
+504,2015,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",Cluster 15,1400000
+505,2016,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",Cluster 15,1462500
+518,2007,"Colonial Village, Shepherd Park, North Portal Estates",Cluster 16,644850
+519,2008,"Colonial Village, Shepherd Park, North Portal Estates",Cluster 16,682500
+520,2009,"Colonial Village, Shepherd Park, North Portal Estates",Cluster 16,650000
+521,2010,"Colonial Village, Shepherd Park, North Portal Estates",Cluster 16,622500
+522,2011,"Colonial Village, Shepherd Park, North Portal Estates",Cluster 16,605000
+523,2012,"Colonial Village, Shepherd Park, North Portal Estates",Cluster 16,710000
+524,2013,"Colonial Village, Shepherd Park, North Portal Estates",Cluster 16,738250
+525,2014,"Colonial Village, Shepherd Park, North Portal Estates",Cluster 16,720000
+526,2015,"Colonial Village, Shepherd Park, North Portal Estates",Cluster 16,810000
+527,2016,"Colonial Village, Shepherd Park, North Portal Estates",Cluster 16,815750
+540,2007,"Takoma, Brightwood, Manor Park",Cluster 17,430000
+541,2008,"Takoma, Brightwood, Manor Park",Cluster 17,387500
+542,2009,"Takoma, Brightwood, Manor Park",Cluster 17,410000
+543,2010,"Takoma, Brightwood, Manor Park",Cluster 17,340000
+544,2011,"Takoma, Brightwood, Manor Park",Cluster 17,378500
+545,2012,"Takoma, Brightwood, Manor Park",Cluster 17,395000
+546,2013,"Takoma, Brightwood, Manor Park",Cluster 17,428750
+547,2014,"Takoma, Brightwood, Manor Park",Cluster 17,509000
+548,2015,"Takoma, Brightwood, Manor Park",Cluster 17,522500
+549,2016,"Takoma, Brightwood, Manor Park",Cluster 17,557500
+562,2007,"Brightwood Park, Crestwood, Petworth",Cluster 18,450000
+563,2008,"Brightwood Park, Crestwood, Petworth",Cluster 18,415000
+564,2009,"Brightwood Park, Crestwood, Petworth",Cluster 18,409000
+565,2010,"Brightwood Park, Crestwood, Petworth",Cluster 18,422500
+566,2011,"Brightwood Park, Crestwood, Petworth",Cluster 18,420000
+567,2012,"Brightwood Park, Crestwood, Petworth",Cluster 18,468000
+568,2013,"Brightwood Park, Crestwood, Petworth",Cluster 18,545000
+569,2014,"Brightwood Park, Crestwood, Petworth",Cluster 18,625000
+570,2015,"Brightwood Park, Crestwood, Petworth",Cluster 18,650000
+571,2016,"Brightwood Park, Crestwood, Petworth",Cluster 18,650000
+584,2007,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",Cluster 19,335000
+585,2008,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",Cluster 19,300000
+586,2009,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",Cluster 19,290000
+587,2010,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",Cluster 19,274900
+588,2011,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",Cluster 19,270275
+589,2012,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",Cluster 19,267500
+590,2013,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",Cluster 19,365000
+591,2014,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",Cluster 19,419900
+592,2015,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",Cluster 19,434750
+593,2016,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",Cluster 19,445000
+606,2007,"North Michigan Park, Michigan Park, University Heights",Cluster 20,384000
+607,2008,"North Michigan Park, Michigan Park, University Heights",Cluster 20,360000
+608,2009,"North Michigan Park, Michigan Park, University Heights",Cluster 20,340552
+609,2010,"North Michigan Park, Michigan Park, University Heights",Cluster 20,353378
+610,2011,"North Michigan Park, Michigan Park, University Heights",Cluster 20,305000
+611,2012,"North Michigan Park, Michigan Park, University Heights",Cluster 20,349800
+612,2013,"North Michigan Park, Michigan Park, University Heights",Cluster 20,354750
+613,2014,"North Michigan Park, Michigan Park, University Heights",Cluster 20,399250
+614,2015,"North Michigan Park, Michigan Park, University Heights",Cluster 20,444250
+615,2016,"North Michigan Park, Michigan Park, University Heights",Cluster 20,495500
+628,2007,"Edgewood, Bloomingdale, Truxton Circle, Eckington",Cluster 21,410675
+629,2008,"Edgewood, Bloomingdale, Truxton Circle, Eckington",Cluster 21,387500
+630,2009,"Edgewood, Bloomingdale, Truxton Circle, Eckington",Cluster 21,377500
+631,2010,"Edgewood, Bloomingdale, Truxton Circle, Eckington",Cluster 21,370000
+632,2011,"Edgewood, Bloomingdale, Truxton Circle, Eckington",Cluster 21,425000
+633,2012,"Edgewood, Bloomingdale, Truxton Circle, Eckington",Cluster 21,493873
+634,2013,"Edgewood, Bloomingdale, Truxton Circle, Eckington",Cluster 21,605000
+635,2014,"Edgewood, Bloomingdale, Truxton Circle, Eckington",Cluster 21,650000
+636,2015,"Edgewood, Bloomingdale, Truxton Circle, Eckington",Cluster 21,679000
+637,2016,"Edgewood, Bloomingdale, Truxton Circle, Eckington",Cluster 21,733700
+650,2007,"Brookland, Brentwood, Langdon",Cluster 22,402800
+651,2008,"Brookland, Brentwood, Langdon",Cluster 22,363895
+652,2009,"Brookland, Brentwood, Langdon",Cluster 22,342500
+653,2010,"Brookland, Brentwood, Langdon",Cluster 22,368500
+654,2011,"Brookland, Brentwood, Langdon",Cluster 22,360000
+655,2012,"Brookland, Brentwood, Langdon",Cluster 22,400000
+656,2013,"Brookland, Brentwood, Langdon",Cluster 22,449995
+657,2014,"Brookland, Brentwood, Langdon",Cluster 22,517500
+658,2015,"Brookland, Brentwood, Langdon",Cluster 22,599000
+659,2016,"Brookland, Brentwood, Langdon",Cluster 22,577500
+672,2007,"Ivy City, Arboretum, Trinidad, Carver Langston",Cluster 23,304500
+673,2008,"Ivy City, Arboretum, Trinidad, Carver Langston",Cluster 23,309500
+674,2009,"Ivy City, Arboretum, Trinidad, Carver Langston",Cluster 23,265000
+675,2010,"Ivy City, Arboretum, Trinidad, Carver Langston",Cluster 23,228875
+676,2011,"Ivy City, Arboretum, Trinidad, Carver Langston",Cluster 23,215000
+677,2012,"Ivy City, Arboretum, Trinidad, Carver Langston",Cluster 23,262500
+678,2013,"Ivy City, Arboretum, Trinidad, Carver Langston",Cluster 23,394000
+679,2014,"Ivy City, Arboretum, Trinidad, Carver Langston",Cluster 23,431000
+680,2015,"Ivy City, Arboretum, Trinidad, Carver Langston",Cluster 23,466250
+681,2016,"Ivy City, Arboretum, Trinidad, Carver Langston",Cluster 23,450000
+694,2007,"Woodridge, Fort Lincoln, Gateway",Cluster 24,465000
+695,2008,"Woodridge, Fort Lincoln, Gateway",Cluster 24,457450
+696,2009,"Woodridge, Fort Lincoln, Gateway",Cluster 24,429450
+697,2010,"Woodridge, Fort Lincoln, Gateway",Cluster 24,393241
+698,2011,"Woodridge, Fort Lincoln, Gateway",Cluster 24,337500
+699,2012,"Woodridge, Fort Lincoln, Gateway",Cluster 24,399817
+700,2013,"Woodridge, Fort Lincoln, Gateway",Cluster 24,445000
+701,2014,"Woodridge, Fort Lincoln, Gateway",Cluster 24,482260
+702,2015,"Woodridge, Fort Lincoln, Gateway",Cluster 24,530570
+703,2016,"Woodridge, Fort Lincoln, Gateway",Cluster 24,557250
+716,2007,"Union Station, Stanton Park, Kingman Park",Cluster 25,470000
+717,2008,"Union Station, Stanton Park, Kingman Park",Cluster 25,465000
+718,2009,"Union Station, Stanton Park, Kingman Park",Cluster 25,455750
+719,2010,"Union Station, Stanton Park, Kingman Park",Cluster 25,482500
+720,2011,"Union Station, Stanton Park, Kingman Park",Cluster 25,479250
+721,2012,"Union Station, Stanton Park, Kingman Park",Cluster 25,528000
+722,2013,"Union Station, Stanton Park, Kingman Park",Cluster 25,600000
+723,2014,"Union Station, Stanton Park, Kingman Park",Cluster 25,638500
+724,2015,"Union Station, Stanton Park, Kingman Park",Cluster 25,688107
+725,2016,"Union Station, Stanton Park, Kingman Park",Cluster 25,705000
+738,2007,"Capitol Hill, Lincoln Park",Cluster 26,567500
+739,2008,"Capitol Hill, Lincoln Park",Cluster 26,549000
+740,2009,"Capitol Hill, Lincoln Park",Cluster 26,569000
+741,2010,"Capitol Hill, Lincoln Park",Cluster 26,600000
+742,2011,"Capitol Hill, Lincoln Park",Cluster 26,587000
+743,2012,"Capitol Hill, Lincoln Park",Cluster 26,632000
+744,2013,"Capitol Hill, Lincoln Park",Cluster 26,682500
+745,2014,"Capitol Hill, Lincoln Park",Cluster 26,729500
+746,2015,"Capitol Hill, Lincoln Park",Cluster 26,750000
+747,2016,"Capitol Hill, Lincoln Park",Cluster 26,785000
+760,2007,"Near Southeast, Navy Yard",Cluster 27,470000
+761,2008,"Near Southeast, Navy Yard",Cluster 27,355000
+762,2009,"Near Southeast, Navy Yard",Cluster 27,676586
+763,2010,"Near Southeast, Navy Yard",Cluster 27,736883
+764,2011,"Near Southeast, Navy Yard",Cluster 27,783663
+765,2012,"Near Southeast, Navy Yard",Cluster 27,829175
+766,2013,"Near Southeast, Navy Yard",Cluster 27,877500
+767,2014,"Near Southeast, Navy Yard",Cluster 27,535000
+768,2015,"Near Southeast, Navy Yard",Cluster 27,965000
+769,2016,"Near Southeast, Navy Yard",Cluster 27,925012
+782,2007,Historic Anacostia,Cluster 28,277000
+783,2008,Historic Anacostia,Cluster 28,260000
+784,2009,Historic Anacostia,Cluster 28,256000
+785,2010,Historic Anacostia,Cluster 28,206289
+786,2011,Historic Anacostia,Cluster 28,199999
+787,2012,Historic Anacostia,Cluster 28,205000
+788,2013,Historic Anacostia,Cluster 28,200000
+789,2014,Historic Anacostia,Cluster 28,275000
+790,2015,Historic Anacostia,Cluster 28,365000
+791,2016,Historic Anacostia,Cluster 28,396550
+804,2007,"Eastland Gardens, Kenilworth",Cluster 29,274500
+805,2008,"Eastland Gardens, Kenilworth",Cluster 29,295000
+806,2009,"Eastland Gardens, Kenilworth",Cluster 29,225000
+807,2010,"Eastland Gardens, Kenilworth",Cluster 29,274500
+808,2011,"Eastland Gardens, Kenilworth",Cluster 29,212250
+809,2012,"Eastland Gardens, Kenilworth",Cluster 29,250000
+810,2013,"Eastland Gardens, Kenilworth",Cluster 29,260150
+811,2014,"Eastland Gardens, Kenilworth",Cluster 29,290000
+812,2015,"Eastland Gardens, Kenilworth",Cluster 29,368000
+813,2016,"Eastland Gardens, Kenilworth",Cluster 29,365000
+826,2007,"Mayfair, Hillbrook, Mahaning Heights",Cluster 30,244000
+827,2008,"Mayfair, Hillbrook, Mahaning Heights",Cluster 30,257500
+828,2009,"Mayfair, Hillbrook, Mahaning Heights",Cluster 30,229500
+829,2010,"Mayfair, Hillbrook, Mahaning Heights",Cluster 30,199900
+830,2011,"Mayfair, Hillbrook, Mahaning Heights",Cluster 30,203450
+831,2012,"Mayfair, Hillbrook, Mahaning Heights",Cluster 30,202300
+832,2013,"Mayfair, Hillbrook, Mahaning Heights",Cluster 30,220000
+833,2014,"Mayfair, Hillbrook, Mahaning Heights",Cluster 30,261900
+834,2015,"Mayfair, Hillbrook, Mahaning Heights",Cluster 30,313500
+835,2016,"Mayfair, Hillbrook, Mahaning Heights",Cluster 30,363469
+848,2007,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",Cluster 31,272250
+849,2008,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",Cluster 31,260000
+850,2009,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",Cluster 31,220000
+851,2010,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",Cluster 31,207650
+852,2011,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",Cluster 31,200000
+853,2012,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",Cluster 31,200000
+854,2013,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",Cluster 31,210000
+855,2014,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",Cluster 31,240000
+856,2015,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",Cluster 31,275000
+857,2016,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",Cluster 31,281000
+870,2007,"River Terrace, Benning, Greenway, Dupont Park",Cluster 32,257500
+871,2008,"River Terrace, Benning, Greenway, Dupont Park",Cluster 32,229000
+872,2009,"River Terrace, Benning, Greenway, Dupont Park",Cluster 32,220000
+873,2010,"River Terrace, Benning, Greenway, Dupont Park",Cluster 32,193000
+874,2011,"River Terrace, Benning, Greenway, Dupont Park",Cluster 32,199000
+875,2012,"River Terrace, Benning, Greenway, Dupont Park",Cluster 32,215000
+876,2013,"River Terrace, Benning, Greenway, Dupont Park",Cluster 32,215000
+877,2014,"River Terrace, Benning, Greenway, Dupont Park",Cluster 32,227300
+878,2015,"River Terrace, Benning, Greenway, Dupont Park",Cluster 32,258500
+879,2016,"River Terrace, Benning, Greenway, Dupont Park",Cluster 32,276500
+892,2007,"Capitol View, Marshall Heights, Benning Heights",Cluster 33,273475
+893,2008,"Capitol View, Marshall Heights, Benning Heights",Cluster 33,320000
+894,2009,"Capitol View, Marshall Heights, Benning Heights",Cluster 33,315000
+895,2010,"Capitol View, Marshall Heights, Benning Heights",Cluster 33,278950
+896,2011,"Capitol View, Marshall Heights, Benning Heights",Cluster 33,239700
+897,2012,"Capitol View, Marshall Heights, Benning Heights",Cluster 33,239750
+898,2013,"Capitol View, Marshall Heights, Benning Heights",Cluster 33,230000
+899,2014,"Capitol View, Marshall Heights, Benning Heights",Cluster 33,264000
+900,2015,"Capitol View, Marshall Heights, Benning Heights",Cluster 33,265000
+901,2016,"Capitol View, Marshall Heights, Benning Heights",Cluster 33,316000
+914,2007,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",Cluster 34,285000
+915,2008,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",Cluster 34,275000
+916,2009,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",Cluster 34,260000
+917,2010,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",Cluster 34,245000
+918,2011,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",Cluster 34,247000
+919,2012,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",Cluster 34,245000
+920,2013,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",Cluster 34,245000
+921,2014,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",Cluster 34,305000
+922,2015,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",Cluster 34,300000
+923,2016,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",Cluster 34,330000
+936,2007,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",Cluster 35,365950
+937,2008,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",Cluster 35,435000
+938,2009,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",Cluster 35,330000
+939,2010,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",Cluster 35,357500
+940,2011,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",Cluster 35,342500
+941,2012,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",Cluster 35,324950
+942,2013,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",Cluster 35,338000
+943,2014,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",Cluster 35,398500
+944,2015,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",Cluster 35,472000
+945,2016,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",Cluster 35,442500
+958,2007,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",Cluster 36,317500
+959,2008,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",Cluster 36,282000
+960,2009,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",Cluster 36,257000
+961,2010,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",Cluster 36,255000
+962,2011,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",Cluster 36,249900
+963,2012,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",Cluster 36,175000
+964,2013,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",Cluster 36,207250
+965,2014,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",Cluster 36,231000
+966,2015,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",Cluster 36,265000
+967,2016,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",Cluster 36,306092
+980,2007,"Sheridan, Barry Farm, Buena Vista",Cluster 37,275000
+981,2008,"Sheridan, Barry Farm, Buena Vista",Cluster 37,293500
+982,2009,"Sheridan, Barry Farm, Buena Vista",Cluster 37,219500
+983,2010,"Sheridan, Barry Farm, Buena Vista",Cluster 37,200000
+984,2011,"Sheridan, Barry Farm, Buena Vista",Cluster 37,283400
+985,2012,"Sheridan, Barry Farm, Buena Vista",Cluster 37,298900
+986,2013,"Sheridan, Barry Farm, Buena Vista",Cluster 37,223000
+987,2014,"Sheridan, Barry Farm, Buena Vista",Cluster 37,275000
+988,2015,"Sheridan, Barry Farm, Buena Vista",Cluster 37,255000
+989,2016,"Sheridan, Barry Farm, Buena Vista",Cluster 37,350000
+1002,2007,"Douglas, Shipley Terrace",Cluster 38,302140
+1003,2008,"Douglas, Shipley Terrace",Cluster 38,321050
+1004,2009,"Douglas, Shipley Terrace",Cluster 38,280000
+1005,2010,"Douglas, Shipley Terrace",Cluster 38,297907
+1006,2011,"Douglas, Shipley Terrace",Cluster 38,268775
+1007,2012,"Douglas, Shipley Terrace",Cluster 38,248450
+1008,2013,"Douglas, Shipley Terrace",Cluster 38,256000
+1009,2014,"Douglas, Shipley Terrace",Cluster 38,263000
+1010,2015,"Douglas, Shipley Terrace",Cluster 38,259750
+1011,2016,"Douglas, Shipley Terrace",Cluster 38,341000
+1024,2007,"Congress Heights, Bellevue, Washington Highlands",Cluster 39,285000
+1025,2008,"Congress Heights, Bellevue, Washington Highlands",Cluster 39,258000
+1026,2009,"Congress Heights, Bellevue, Washington Highlands",Cluster 39,215000
+1027,2010,"Congress Heights, Bellevue, Washington Highlands",Cluster 39,206450
+1028,2011,"Congress Heights, Bellevue, Washington Highlands",Cluster 39,199517
+1029,2012,"Congress Heights, Bellevue, Washington Highlands",Cluster 39,187000
+1030,2013,"Congress Heights, Bellevue, Washington Highlands",Cluster 39,190000
+1031,2014,"Congress Heights, Bellevue, Washington Highlands",Cluster 39,250000
+1032,2015,"Congress Heights, Bellevue, Washington Highlands",Cluster 39,279999
+1033,2016,"Congress Heights, Bellevue, Washington Highlands",Cluster 39,290000
+1068,2007,Rock Creek Park,Cluster 41,909250
+1069,2008,Rock Creek Park,Cluster 41,757500
+1070,2009,Rock Creek Park,Cluster 41,735000
+1071,2010,Rock Creek Park,Cluster 41,915000
+1072,2011,Rock Creek Park,Cluster 41,805000
+1073,2012,Rock Creek Park,Cluster 41,735000
+1074,2013,Rock Creek Park,Cluster 41,860000
+1075,2014,Rock Creek Park,Cluster 41,794500
+1076,2015,Rock Creek Park,Cluster 41,1108000
+1077,2016,Rock Creek Park,Cluster 41,1595000
+1092,2009,Saint Elizabeths,Cluster 43,316000
+1093,2010,Saint Elizabeths,Cluster 43,299900
+1094,2011,Saint Elizabeths,Cluster 43,299900
+1095,2012,Saint Elizabeths,Cluster 43,299000
+1096,2013,Saint Elizabeths,Cluster 43,213721
+1097,2014,Saint Elizabeths,Cluster 43,207500
+1099,2016,Saint Elizabeths,Cluster 43,279900
+1112,2007,Joint Base Anacostia-Bolling,Cluster 44,250000
+1113,2008,Joint Base Anacostia-Bolling,Cluster 44,327450
+1119,2014,Joint Base Anacostia-Bolling,Cluster 44,310000
+1120,2015,Joint Base Anacostia-Bolling,Cluster 44,300000
+1139,2012,"Arboretum, Anacostia River",Cluster 46,290000
+1140,2013,"Arboretum, Anacostia River",Cluster 46,192000
+1141,2014,"Arboretum, Anacostia River",Cluster 46,499000
